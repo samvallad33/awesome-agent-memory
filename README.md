@@ -9,6 +9,7 @@ A curated list of projects on **memory systems of AI agents**.
 
 
 ## Standalone Libraries / Frameworks for Building Agent Memory Systems
+* **[Vestige](https://github.com/samvallad33/vestige)** – Causal proof engine and operating system for AI agents on Strata, an append-only hash-chained log. Zero vectors, zero RAG; every answer carries its proof as a memory id, an edge path or a receipt, and causal_walk traces a failure back to the commit that caused it. Agent memory is one subsystem, exposed as a local Rust MCP server.
 
 * **[Letta](https://github.com/letta-ai/letta)** – Memory hierarchy with editable **memory blocks**, agentic context tools, **multi-agent shared memory**, and portable **Agent File (.af)** snapshots.
 
